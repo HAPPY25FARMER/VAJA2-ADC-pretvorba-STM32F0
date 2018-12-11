@@ -1,0 +1,2 @@
+# VAJA2-ADC-pretvorba-STM32F0
+VAJA 2
